@@ -46,6 +46,12 @@ The app will run on `The app will run on `http://localhost:5173/`. 🌐
 
 Feel free to fork the repository, create a new branch, and submit a pull request if you have improvements or bug fixes! 🚀
 
+## Screenshot 📸
+Here’s a screenshot of the app in action:
+
+![App Screenshot](https://i.imgur.com/0HDHy0Q.png)
+
+
 ## License 📄
 
 This project is open source and available under the [MIT License](LICENSE). 🔓
